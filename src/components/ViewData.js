@@ -24,6 +24,11 @@ const columns = [
     key: 'age',
   },
   {
+    title: 'Purok',
+    dataIndex: 'purok',
+    key: 'purok',
+  },
+  {
     title: 'Educational Attainment',
     dataIndex: 'educational_attainment',
     key: 'educational_attainment',
