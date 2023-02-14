@@ -137,12 +137,13 @@ function AddForm() {
             onChange={onGenderChange}
             allowClear
           >
-            <Option value="1">1</Option>
-            <Option value="2">2</Option>
-            <Option value="3">3</Option>
-            <Option value="4">4</Option>
-            <Option value="5">5</Option>
-            <Option value="6">6</Option>
+            <Option value="1">1 - Lemoncito</Option>
+            <Option value="2">2 - Nangka</Option>
+            <Option value="3">3 - Bayabas</Option>
+            <Option value="4">4 - Sabana</Option>
+            <Option value="5">5 - Lanzones </Option>
+            <Option value="6">6 - Abocado</Option>
+            <Option value="7">7 - Mangga</Option>
           </Select>
         </Form.Item>
 

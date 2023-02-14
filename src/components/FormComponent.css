@@ -5,3 +5,20 @@
 .ant-spin-text {
   color: #999;
 }
+
+/* h1 {
+  display: flex;
+  padding-top: 50px;
+  margin: 5px;
+  padding-left: 40%;
+} */
+
+.center {
+  margin: auto;
+  width: 50%;
+  font-size: 2rem;
+}
+
+.center > h1{
+  color: antiquewhite;
+}

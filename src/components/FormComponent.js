@@ -76,10 +76,14 @@ const FormComponent = () => {
 
   return (
     <div style={{ display: "flex", justifyContent: "center", backgroundImage:"url('https://img.lovepik.com/photo/40054/3576.jpg_wh860.jpg')", backgroundSize:"cover", height:"100vh" }}>
+      
+      <div className="center"><h1>Youth Infographics Profiling System</h1></div>
+
       <FormWrapper style={{backgroundColor:"gray", height:"300px"}}>
         {/* <Row>
           <SchoolLogo src='/logo.png' />
         </Row> */}
+
         <Row >
           <Col xs={24} xl={24} l={24 }>
             <Form
