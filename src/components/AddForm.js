@@ -105,7 +105,7 @@ function AddForm() {
 
         <Form.Item
           name="gender"
-          label="Gender"
+          label="Sex"
           rules={[
             {
               required: true,
